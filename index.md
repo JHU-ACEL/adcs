@@ -12,11 +12,6 @@ Through the course of the semester, students will build up a spacecraft simulati
 Students are expected to have a strong foundation in linear algebra and differential equations as well as experience with a high-level programming language (e.g., Python or Julia). 
 
 ## Instructors 
-<!-- [Prof. Abhishek Cauligi](https://acauligi.github.io) -->
-<div style="margin-bottom: 20px;">
-  <img src="./assets/images/Cauligi.jpg" alt="Prof. Abhishek Cauligi" style="width: 187.5px; height: 187.5px; object-fit: cover; border-radius: 8px;">
-  <p><a href="https://acauligi.github.io">Prof. Abhishek Cauligi</a></p>
-</div>
 
 ## Course Assistants
 
@@ -29,6 +24,3 @@ The syllabus for the course can be found here.
 
 
 ## Schedule
-
-| Week | Date | Topics Covered | Notes | Suggested Readings |
-|------|------|-----------------|--------------|---------------------|
