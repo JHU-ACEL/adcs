@@ -19,8 +19,41 @@ Students are expected to have a strong foundation in linear algebra and differen
 Office hours will begin from the second week of the semester.
 
 ## Syllabus
-The syllabus for the course can be found here.
+The syllabus for the course can be found [here](./assets/pdf/syllabus.pdf).
 
 
 
 ## Schedule
+
+| Week | Date  | Topics Covered | Notes | Suggested Readings |
+| ---- | ----- | -------------- | ----- | ------------------ |
+| 1    | 01/26 |  |  |  |
+|      | 01/28 |  |  |  |
+| 2    | 02/02 |  |  |  |
+|      | 02/04 |  |  |  |
+| 3    | 02/09 |  |  |  |
+|      | 02/11 |  |  |  |
+| 4    | 02/16 |  |  |  |
+|      | 02/18 |  |  |  |
+| 5    | 02/23 |  |  |  |
+|      | 02/25 |  |  |  |
+| 6    | 03/02 |  |  |  |
+|      | 03/04 |  |  |  |
+| 7    | 03/09 |  |  |  |
+|      | 03/11 |  |  |  |
+| 8    | 03/16 |  |  |  |
+|      | 03/18 |  |  |  |
+| 9    | 03/23 | **No Lecture (Spring Break)** |  |  |
+|      | 03/25 | **No Lecture (Spring Break)** |  |  |
+| 10   | 03/30 |  |  |  |
+|      | 04/01 |  |  |  |
+| 11   | 04/06 |  |  |  |
+|      | 04/08 |  |  |  |
+| 12   | 04/13 |  |  |  |
+|      | 04/15 |  |  |  |
+| 13   | 04/20 |  |  |  |
+|      | 04/22 |  |  |  |
+| 14   | 04/27 |  |  |  |
+|      | 04/29 |  |  |  |
+| 15   | 04/27 | **No Lecture (Exam Week)** |  |  |
+|      | 04/29 | **No Lecture (Exam Week)**  |  |  |
