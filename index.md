@@ -27,25 +27,25 @@ The syllabus for the course can be found [here](./assets/pdf/syllabus.pdf).
 
 | Week | Date  | Topics Covered | Notes | Suggested Readings |
 | ---- | ----- | -------------- | ----- | ------------------ |
-| 1    | 01/26 |  |  |  |
-|      | 01/28 |  |  |  |
-| 2    | 02/02 |  |  |  |
-|      | 02/04 |  |  |  |
-| 3    | 02/09 |  |  |  |
-|      | 02/11 |  |  |  |
-| 4    | 02/16 |  |  |  |
-|      | 02/18 |  |  |  |
-| 5    | 02/23 |  |  |  |
-|      | 02/25 |  |  |  |
-| 6    | 03/02 |  |  |  |
-|      | 03/04 |  |  |  |
-| 7    | 03/09 |  |  |  |
-|      | 03/11 |  |  |  |
+| 1    | 01/26 | Course introduction  |  |  |
+|      | 01/28 | Linear algebra review |  |  |
+| 2    | 02/02 | Differential equations review |  |  |
+|      | 02/04 | Attitude representations |  |  |
+| 3    | 02/09 | Modeling spacecraft kinematics |  |  |
+|      | 02/11 | Spacecraft sensor models |  |  |
+| 4    | 02/16 | State estimation (Pt. 1) |  |  |
+|      | 02/18 | State estimation (Pt. 2) |  |  |
+| 5    | 02/23 | State estimation (Pt. 3) |  |  |
+|      | 02/25 | Passive attitude control techniques |  |  |
+| 6    | 03/02 | Active attitude control techniques (Pt. 1) |  |  |
+|      | 03/04 | Active attitude control techniques (Pt. 2) |  |  |
+| 7    | 03/09 | Spacecraft simulation (Pt. 1) |  |  |
+|      | 03/11 | Spacecraft simulation (Pt. 2) |  |  |
 | 8    | 03/16 |  |  |  |
 |      | 03/18 |  |  |  |
 | 9    | 03/23 | **No Lecture (Spring Break)** |  |  |
 |      | 03/25 | **No Lecture (Spring Break)** |  |  |
-| 10   | 03/30 |  |  |  |
+| 10   | 03/30 | Guest lecture (TBD)  |  |  |
 |      | 04/01 |  |  |  |
 | 11   | 04/06 |  |  |  |
 |      | 04/08 |  |  |  |
